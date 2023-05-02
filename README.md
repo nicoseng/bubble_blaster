@@ -1,4 +1,4 @@
-# Projet 3 : Aidez MacGyver à s'échapper ! 
+# Jeu de Bubble Blaster 
 
 Dépot Github : https://github.com/nicoseng/bubble_blaster
 Programme rédigé sous Python3 et avec le module Pygame (version 1.9.6)
