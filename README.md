@@ -27,7 +27,7 @@ L’objectif du jeu est d'attraper un maximum de bulles bleues afin de battre so
    Le jeu se termine lorque le score du joueru atteint zéro A défaut la partie continue. Un message de défaite s’affiche en cas de perte. 
    
 * Rejouer au jeu 
-	A tout moment, le joueur peut quitter le jeu. Pour ce faire, appuyer sur la touche r du clavier.
+   Pour ce faire, appuyer sur la touche r du clavier.
 
 * Quitter le jeu 
-	A tout moment, le joueur peut quitter le jeu. Pour ce faire, cliquer directement sur la croix pour fermer la fenêtre.
+   Pour ce faire, cliquer directement sur la croix pour fermer la fenêtre.
