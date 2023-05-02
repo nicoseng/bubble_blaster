@@ -18,16 +18,16 @@ Ce document a pour objectif de guider l’utilisateur étape par étape afin de 
 L’objectif du jeu est d'attraper un maximum de bulles bleues afin de battre son propre record ! Les bulles rouges font perdre des points. Il faut donc les éviter au maximum !
 
 * Se déplacer dans l'océan
-   Appuyer au choix sur les flèches directionnelles. 
+   - Appuyer au choix sur les flèches directionnelles. 
    
 * Récupérer une bulle
-   Se déplacer à l'endroit où se trouve la bulle bleue. L’objet ramassé disparaît du labyrinthe et le compteur inventaire indique le nombre d’objet ramassé. 
+   - Se déplacer à l'endroit où se trouve la bulle bleue. L’objet ramassé disparaît du labyrinthe et le compteur inventaire indique le nombre d’objet ramassé. 
 
 * Gagner/Perdre le jeu 
-   Le jeu se termine lorque le score du joueru atteint zéro A défaut la partie continue. Un message de défaite s’affiche en cas de perte. 
+   - Le jeu se termine lorque le score du joueru atteint zéro A défaut la partie continue. Un message de défaite s’affiche en cas de perte. 
    
 * Rejouer au jeu 
-   Pour ce faire, appuyer sur la touche r du clavier.
+   - Pour ce faire, appuyer sur la touche r du clavier.
 
 * Quitter le jeu 
-   Pour ce faire, cliquer directement sur la croix pour fermer la fenêtre.
+   - Pour ce faire, cliquer directement sur la croix pour fermer la fenêtre.
